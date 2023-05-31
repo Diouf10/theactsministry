@@ -89,7 +89,6 @@ body{
 }
 
 a.nav-link {
-    margin-right: 39px;
     font-size: var(--text-regular);
     font-weight: var(--font-weigth-regular);
     color: var(--dark-brown) !important;
