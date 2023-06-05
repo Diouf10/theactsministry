@@ -92,6 +92,7 @@ a.nav-link {
     font-size: var(--text-regular);
     font-weight: var(--font-weigth-regular);
     color: var(--dark-brown) !important;
+    margin-right: 39px;
 }
 
 /* HERO */
@@ -280,6 +281,18 @@ footer i{
     color: #fff;
 }
 
+/* footer */
+
+footer a.nav-link
+{
+    color: white !important;
+    margin: 0;
+}
+
+footer h5,h4
+{
+    color: blue !important;
+}
 
 
 
@@ -349,18 +362,6 @@ footer i{
     }
 }
 
-/* footer */
-
-footer a.nav-link
-{
-    color: white !important;
-    margin: 0;
-}
-
-footer h5,h4
-{
-    color: blue !important;
-}
 
 
 /* Tablet Small Version*/
@@ -373,7 +374,7 @@ footer h5,h4
     }
 
     a.nav-link {
-        margin-right: 7px 0;
+        margin-right: 0;
         
     }
 
